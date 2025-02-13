@@ -18,7 +18,7 @@ apt-get -y install python3 python3-pip python3-venv git influxdb lsof
 python3 -m venv venv
 
 # Clone the repository
-git clone https://github.com/sunfounder/pm_dashboard.git
+https://github.com/LeXwDeX/pm_dashboard.git
 
 # Activate the virtual environment
 source venv/bin/activate
