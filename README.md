@@ -29,11 +29,11 @@ pip3 install .
 
 ## WWW
 
-This Package include a web page, located in `pm_dashboard/www` is a compiled web page from [Pironman Dashboard WWW](https://github.com/sunfounder/pm_dashboard_www) repository.
+This Package include a web page, located in `pm_dashboard/www` is a compiled web page from [Pironman Dashboard WWW](https://github.com/LeXwDeX/pm_dashboard_www) repository.
 
-To update the web page, download the [latest release](https://github.com/sunfounder/pm_dashboard_www/releases/latest/download/www.zip)
+To update the web page, download the [latest release](https://github.com/LeXwDeX/pm_dashboard_www/releases/latest/download/www.zip)
 ```bash
-wget https://github.com/sunfounder/pm_dashboard_www/releases/latest/download/www.zip
+wget https://github.com/LeXwDeX/pm_dashboard_www/releases/latest/download/www.zip
 ```
 Unzip the file
 ```bash

@@ -28,8 +28,8 @@ dependencies = [
 packages = ["pm_dashboard"]
 
 [project.urls]
-"Homepage" = "https://github.com/sunfounder/pm_dashboard"
-"Bug Tracker" = "https://github.com/sunfounder/pm_dashboard/issues"
+"Homepage" = "https://github.com/LeXwDeX/pm_dashboard"
+"Bug Tracker" = "https://github.com/LeXwDeX/pm_dashboard/issues"
 
 [project.scripts]
 pm_dashboard = "pm_dashboard:main"
